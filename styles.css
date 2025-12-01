@@ -37,7 +37,7 @@
 
 .search-icon-link {
   /* Container styles */
-  display: inline-flex; /* Use flexbox to center the icon */
+  display: inline-flex; /*flexbox to center the icon */
   justify-content: center;
   align-items: center;
   width: 50px; /* Set the size of the circular area */
@@ -129,13 +129,13 @@ p {
   padding-bottom: 40px;
 
   transition: background-color 0.3s ease;
-  /* This ensures the text and arrow inside flow naturally */
+  
 }
 
 /* Specific color styles */
 .partner-with-us {
-  background-color: #800080; /* A shade of purple */
-  border: 1px solid #800080;
+  background-color: #6B2D8F; /* A shade of purple */
+  border: 1px solid #6B2D8F;
   width: 180px;
   height: 30px;
   border-radius: 5px;
@@ -148,26 +148,26 @@ p {
 }
 
 .partner-with-us:hover {
-  background-color: white; /* Slightly darker yellow on hover */
-  color: #800080;
+  background-color: white;
+  color: #6B2D8F;
 }
 
 .explore-programs {
-  background-color: #ffd700; /* Gold/yellow color */
-  color: black; /* Better contrast for yellow */
-  border: 1px solid #ffd700;
+  background-color: #C0FF33; 
+  color: black; 
+  border: 1px solid #C0FF33;
   width: 180px;
   border-radius: 5px;
   height: 30px;
   text-align: center;
-  color: white; /* Default text color */
+  color: white; 
   text-decoration: none;
   font-weight: bold;
   font-size: 18px;
   padding-top: 10px;
 }
 .explore-programs:hover {
-  background-color: white; /* Slightly darker yellow on hover */
+  background-color: white; 
   color: #800080;
 }
 
@@ -309,7 +309,7 @@ p {
 
 .courses-h2 {
   text-align: center;
-  color: rgb(80, 210, 210);
+  color: #00bfa5;
   font-size: 18px;
   margin-bottom: 0px;
 }
@@ -317,7 +317,7 @@ p {
 .courses-h3 {
   font-size: 30px;
   text-align: center;
-  color: rgb(97, 4, 97);
+  color: #6B2D8F;
   font-weight: bolder;
   margin-top: 0px;
 }
@@ -327,7 +327,7 @@ p {
 }
 /* Optional styling for columns */
 .foundational-h2 {
-  color: rgb(75, 10, 75);
+  color: #6B2D8F;
   font-weight: bold;
   font-size: 20px;
 }
@@ -343,7 +343,7 @@ p {
 }
 /* Optional styling for columns */
 .apprenticeship-h2 {
-  color: rgb(54, 7, 54);
+  color: #6B2D8F;
   font-weight: bold;
   font-size: 20px;
 }
@@ -359,7 +359,7 @@ p {
 }
 
 .advanced-h2 {
-  color: rgb(54, 7, 54);
+  color: #6B2D8F;
   font-weight: bold;
   font-size: 20px;
 }
@@ -527,7 +527,7 @@ p {
 }
 
 footer {
-  background: rgb(27, 6, 27);
+  background: #2c1a4d;
   color: white;
 
 }
